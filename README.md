@@ -15,7 +15,7 @@ In this program, the basic rules of complete vertices are used to build non-unif
 
 Keep in mind, for the entire tessellation to appear on the window, the quantity L<sup>2</sup>N should be roughly constant.
 
-#### Sample Output:
+### Sample Output:
 <p align="center">
  <img src="https://i.imgur.com/E9oKFbM.jpg" width="300" height="294">
 </p>
